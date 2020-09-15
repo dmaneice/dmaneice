@@ -1,5 +1,7 @@
 ### Hi there 👋
 [Crater Lake](crater_lake.jpg)
+### 
+[Crater Lake](images/craterLake.jpeg)
 <!--
 **dmaneice/dmaneice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
